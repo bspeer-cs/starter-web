@@ -8,3 +8,4 @@ Sample website with plenty of files for demos
 
 ### Copyright
 
+Please fork this repo and issue pull requesst for review
